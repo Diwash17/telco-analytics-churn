@@ -15,3 +15,9 @@ End-to-end **Telco analytics project** combining **RFM segmentation from call da
 ---
 
 ## 📂 Project Structure
+telco-analytics-churn/
+│── data/                  # Telco and Call datasets
+│── notebooks/             # EDA, RFE, clustering, and model training
+│── app.py                 # Dash dashboard code
+│── requirements.txt       # Python dependencies
+│── README.md              # Project documentation
